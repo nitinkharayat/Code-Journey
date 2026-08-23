@@ -3,7 +3,7 @@ class Students:
     name = ""
     age = 0
     gender = 0 
-    def set_details(self,Name : str ,Age : int ,Roll_Number,Gender):
+    def set_details(self,Name : str ,Age : int ,Roll_Number:int,Gender:str):
         self.name = Name
         self.age = Age
         self.roll_no = Roll_Number

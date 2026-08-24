@@ -13,9 +13,9 @@ My public learning journey through programming and computer science.
   <img src="https://skillicons.dev/icons?i=python,cpp" />
 </p>
 
-| 🐍 Python   | ⚡ C++       |
-| ----------- | ----------- |
-| 🟢 Learning | 🟢 Learning |
+| 🐍 Python   | ⚡ C++       |DSA
+| ----------- | ----------- |------|
+| 🟢 Learning | 🟢 Learning |Learning|
 
 ---
 
